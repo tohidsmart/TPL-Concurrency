@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Program.cs~RF4578d27d.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlightData.Data\FlightData.Entities.csproj" />
+    <ProjectReference Include="..\FlightData.Services\FlightData.Services.csproj" />
+  </ItemGroup>
+
+</Project>

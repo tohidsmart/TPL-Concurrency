@@ -1,0 +1,22 @@
+{
+  "departures": [
+    {
+      "destination": "Destination",
+      "Id": "566a5df0-6852-4c0b-9f41-81d8f5e88004",
+      "flight": "12AKBLahBLah",
+      "passenger": "-6",
+      "timeStamp": "2019-09-11T21:22:25.2528005+10:00",
+      "eventType": "Departure"
+    }
+  ],
+  "arrivals": [
+    {
+      "delayed": "21:22",
+      "Id": "cb5c0156-fea5-4974-8299-837338456e10",
+      "flight": "12AKBLahBLah",
+      "passenger": "-6",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    }
+  ]
+}

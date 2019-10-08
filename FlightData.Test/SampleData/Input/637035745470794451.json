@@ -1,0 +1,214 @@
+{
+  "departures": [
+    {
+      "destination": "Destination",
+      "Id": "2f00e0db-edfc-47f8-8d91-6bc7d19441dd",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "2019-09-11T21:22:27.0794162+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "67d09ca3-70fb-4410-be2e-912d420f96d6",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "2019-09-11T21:22:27.0794261+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "833379e4-f7bb-4bf9-bd68-7a094ad549d7",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "2019-09-11T21:22:27.0794275+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "01bd9ee5-8852-441a-9d25-2ced750b9e74",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "2019-09-11T21:22:27.0794302+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "8ea64a28-bfba-4393-8306-807e0ccca580",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "2019-09-11T21:22:27.0794313+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "4ef3b960-280e-4d9b-9ad1-3f8b4f6b0f72",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "2019-09-11T21:22:27.0794329+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "0d3378f2-9eb6-427b-97c6-f36327b11192",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "2019-09-11T21:22:27.079434+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "76e8e1e5-380a-46ae-9218-b8c5229a6488",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "2019-09-11T21:22:27.0794354+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "691cac0a-bb0d-40d2-8fd8-349948a803f4",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "2019-09-11T21:22:27.0794365+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "7e645622-4e7c-42e7-acce-d46922522e63",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "2019-09-11T21:22:27.0794379+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "dc793473-961b-444e-82dc-a73ea2c1b453",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "2019-09-11T21:22:27.0794392+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "957adcb3-3c43-472d-937d-13847263a9e7",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "2019-09-11T21:22:27.0794414+10:00",
+      "eventType": "Departure"
+    },
+    {
+      "destination": "Destination",
+      "Id": "b3bd9d82-3e1e-4ed0-86b0-29b3564a0309",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "2019-09-11T21:22:27.0794432+10:00",
+      "eventType": "Departure"
+    }
+  ],
+  "arrivals": [
+    {
+      "delayed": "21:22",
+      "Id": "cfbbe43b-e9e0-4f7d-9908-78d2146af9c8",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "d3d82511-7670-403d-baef-0abee243222f",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "b433f350-9e5b-425b-a6c1-6827d2fdc79b",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "23142085-9267-42b7-8774-9a969c32415a",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "065ef74e-ba1c-4cdb-bca7-6df25828748f",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "0ced5fec-dbb9-4a53-87aa-29119fe10bf4",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "5bc02cff-1837-490f-ae99-957ca3653834",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "76f2ea26-6133-4404-9719-711b4f834f0b",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "c68694b3-7e33-45e0-8e68-ef7beaf95ace",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "38fceac3-8718-4cec-a36a-27d87548172f",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "66443864-243a-47fb-962e-894eb9bfc35f",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "6a4586c5-c1b2-4d7c-8207-250fb8046398",
+      "flight": "AKBLahBLah",
+      "passenger": "154",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    },
+    {
+      "delayed": "21:22",
+      "Id": "5ad2907e-ca18-4414-922f-5f591e05789f",
+      "flight": "12AKBLahBLah",
+      "passenger": "-10",
+      "timeStamp": "0001-01-01T00:00:00",
+      "eventType": "Arrival"
+    }
+  ]
+}
